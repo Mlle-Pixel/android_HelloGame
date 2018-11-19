@@ -1,3 +1,3 @@
 package fr.epita.hellogame
 
-class Game(val id: Int, val name: Int)
+class Game(val id: Int, val name: String)
